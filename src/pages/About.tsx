@@ -32,7 +32,7 @@ const AboutMe: React.FC = () => {
             <p>Hello! I'm a 3rd Year Student in Northern Bukidnon State Collage.</p>
             <p>Im 21 years old</p>
             <p>
-              <strong>Favorite song:</strong> with a smile,Youll be safe here ,
+              <strong>Favorite song:</strong> with a smile,Youll be safe here , Kundiman
             </p>
             <p>
               <strong>Email:</strong> 20221557@nbsc.edu.ph
