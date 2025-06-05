@@ -79,7 +79,7 @@ const Login: React.FC = () => {
               style={{ width: '100%', height: '100%', objectFit: 'cover', borderRadius: '50%' }}
             />
           </IonAvatar>
-          <h2 style={{ marginBottom: '28px', fontWeight: 'bold', fontSize: '2rem' }}>Music Login</h2>
+          <h2 style={{ marginBottom: '28px', fontWeight: 'bold', fontSize: '2rem' }}>Login</h2>
           <IonInput
             label="Email"
             labelPlacement="floating"
