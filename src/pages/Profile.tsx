@@ -64,7 +64,7 @@ const EditProfile: React.FC = () => {
     }
     const user = session.session.user;
     if (!user.email) {
-      setAlertMessage('Error: User email is missing.');
+      setAlertMessage('Error: User email is missing.Please log in ');
       setShowAlert(true);
       return;
     }
